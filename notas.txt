@@ -1,0 +1,3 @@
+Rafael,10,7,8,9
+Rodrigo,7,8,10,5
+Fabiana,7,8,10,10
